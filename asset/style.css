@@ -30,6 +30,18 @@ main{
     padding: 0px 25% 100px 25%;
 }
 
+footer{
+    background-color: black;
+    height: 100px;
+    margin-bottom: 3px;
+}
+
+footer section{
+    padding: 26px 25% 0px 25%;
+    display: flex;
+    justify-content: space-between;
+}
+
 div a{
     color: white;
     text-decoration: none;
@@ -120,4 +132,28 @@ div a{
 .sconto{
     position: absolute;
     bottom: 40px;
+}
+
+.block{
+    display: block;
+}
+
+.inline{
+    display: inline-block;
+}
+
+.credit{
+    height: 50px;
+    width: 500px;
+    color: white;
+}
+
+.social{
+    height: 50px;
+    width: 111px;
+    color: white;
+}
+
+br{
+    border: 1px solid white;
 }
