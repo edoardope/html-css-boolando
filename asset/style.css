@@ -73,24 +73,48 @@ div a{
     background-image: url(img/1.webp);
 }
 
+#card-1-img:hover{
+    background-image: url(img/1b.webp);
+}
+
 #card-2-img{
     background-image: url(img/2.webp);
+}
+
+#card-2-img:hover{
+    background-image: url(img/2b.webp);
 }
 
 #card-3-img{
     background-image: url(img/3.webp);
 }
 
+#card-3-img:hover{
+    background-image: url(img/3b.webp);
+}
+
 #card-4-img{
     background-image: url(img/4.webp);
+}
+
+#card-4-img:hover{
+    background-image: url(img/4b.webp);
 }
 
 #card-5-img{
     background-image: url(img/5.webp);
 }
 
+#card-5-img:hover{
+    background-image: url(img/5b.webp);
+}
+
 #card-6-img{
     background-image: url(img/6.webp);
+}
+
+#card-6-img:hover{
+    background-image: url(img/6b.webp);
 }
 
 .card-descriprion{
